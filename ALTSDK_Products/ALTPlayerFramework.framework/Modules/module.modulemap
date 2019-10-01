@@ -1,0 +1,6 @@
+framework module ALTPlayerFramework {
+  umbrella header "ALTPlayerFramework.h"
+
+  export *
+  module * { export * }
+}

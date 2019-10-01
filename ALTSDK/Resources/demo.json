@@ -1,0 +1,859 @@
+{
+    component =     {
+        "btn_aw" =         {
+            alpha = 0;
+            buttonId = "btn_aw";
+            duration = "<null>";
+            eventGroup =             (
+            "even_aw",
+            "even_YC1001",
+            "happy_plus"
+            );
+            eventTimeout =             (
+            );
+            height = 0;
+            hideEffect = "<null>";
+            interactionType = press;
+            intoViewEffect = "<null>";
+            note = "<null>";
+            perloadingType = "<null>";
+            picHover = "<null>";
+            picNormal = "M00/00/D0/wKgB9Fy4WbuAAhu0AAALEkRhtBE853.png";
+            picPressed = "<null>";
+            "pic_4" = "<null>";
+            rotate = 0;
+            showEffect = "<null>";
+            successEffect = "<null>";
+            width = 0;
+            x = 1300;
+            y = 500;
+            zIndex = 0;
+        };
+        "btn_js" =         {
+            alpha = 0;
+            buttonId = "btn_js";
+            duration = "<null>";
+            eventGroup =             (
+            "even_js",
+            "even_YC1003",
+            "happy_plus"
+            );
+            eventTimeout =             (
+            );
+            height = 0;
+            hideEffect = "<null>";
+            interactionType = press;
+            intoViewEffect = "<null>";
+            note = "<null>";
+            perloadingType = "<null>";
+            picHover = "<null>";
+            picNormal = "M00/00/CF/wKgB9Fy4T8iABdJaAAALrU2vCog173.png";
+            picPressed = "<null>";
+            "pic_4" = "<null>";
+            rotate = 0;
+            showEffect = "<null>";
+            successEffect = "<null>";
+            width = 0;
+            x = 1300;
+            y = 500;
+            zIndex = 0;
+        };
+        "btn_md" =         {
+            alpha = 0;
+            buttonId = "btn_md";
+            duration = 5;
+            eventGroup =             (
+            "even_md",
+            "even_YC1004"
+            );
+            eventTimeout =             (
+            "even_md",
+            "even_YC1004"
+            );
+            height = 0;
+            hideEffect = "<null>";
+            interactionType = press;
+            intoViewEffect = "<null>";
+            note = "<null>";
+            perloadingType = "<null>";
+            picHover = "<null>";
+            picNormal = "M00/00/CF/wKgB9Fy4T6aAAF4sAAALEiDBnlY388.png";
+            picPressed = "<null>";
+            "pic_4" = "<null>";
+            rotate = 0;
+            showEffect = "<null>";
+            successEffect = "<null>";
+            width = 0;
+            x = 300;
+            y = 500;
+            zIndex = 0;
+        };
+        "btn_td" =         {
+            alpha = 0;
+            buttonId = "btn_td";
+            duration = "4.5";
+            eventGroup =             (
+            "even_td",
+            "even_YC1002"
+            );
+            eventTimeout =             (
+            "even_td",
+            "even_YC1002"
+            );
+            height = 0;
+            hideEffect = "<null>";
+            interactionType = press;
+            intoViewEffect = "<null>";
+            note = "<null>";
+            perloadingType = "<null>";
+            picHover = "<null>";
+            picNormal = "M00/00/CF/wKgB9Fy4Tn6ASZUQAAAQlaZx86A001.png";
+            picPressed = "<null>";
+            "pic_4" = "<null>";
+            rotate = 0;
+            showEffect = "<null>";
+            successEffect = "<null>";
+            width = 0;
+            x = 300;
+            y = 500;
+            zIndex = 0;
+        };
+        "btn_xt" =         {
+            alpha = 0;
+            buttonId = "btn_xt";
+            duration = "<null>";
+            eventGroup =             (
+            "even_xt",
+            "even_YC1004",
+            "happy_plus"
+            );
+            eventTimeout =             (
+            );
+            height = 0;
+            hideEffect = "<null>";
+            interactionType = press;
+            intoViewEffect = "<null>";
+            note = "<null>";
+            perloadingType = "<null>";
+            picHover = "<null>";
+            picNormal = "M00/00/CF/wKgB9Fy4T7iAWGJrAAANylzHZ1k342.png";
+            picPressed = "<null>";
+            "pic_4" = "<null>";
+            rotate = 0;
+            showEffect = "<null>";
+            successEffect = "<null>";
+            width = 0;
+            x = 1300;
+            y = 500;
+            zIndex = 0;
+        };
+        "btn_ym" =         {
+            alpha = 0;
+            buttonId = "btn_ym";
+            duration = "00:00:17#03";
+            eventGroup =             (
+            "even_ym",
+            "even_YC1003"
+            );
+            eventTimeout =             (
+            "even_ym",
+            "even_YC1003"
+            );
+            height = 0;
+            hideEffect = "<null>";
+            interactionType = press;
+            intoViewEffect = "<null>";
+            note = "<null>";
+            perloadingType = "<null>";
+            picHover = "<null>";
+            picNormal = "M00/00/CF/wKgB9Fy4T9eAMfykAAANLT_9_2Q819.png";
+            picPressed = "<null>";
+            "pic_4" = "<null>";
+            rotate = 0;
+            showEffect = "<null>";
+            successEffect = "<null>";
+            width = 0;
+            x = 300;
+            y = 500;
+            zIndex = 0;
+        };
+        "btn_zb" =         {
+            alpha = 0;
+            buttonId = "btn_zb";
+            duration = "00:00:10#03";
+            eventGroup =             (
+            "even_zb",
+            "even_YC1001"
+            );
+            eventTimeout =             (
+            "even_zb",
+            "even_YC1001"
+            );
+            height = 0;
+            hideEffect = "<null>";
+            interactionType = press;
+            intoViewEffect = "<null>";
+            note = "<null>";
+            perloadingType = "<null>";
+            picHover = "<null>";
+            picNormal = "M00/00/D0/wKgB9Fy4WbOAb910AAAJfkiZZZE285.png";
+            picPressed = "<null>";
+            "pic_4" = "<null>";
+            rotate = 0;
+            showEffect = "<null>";
+            successEffect = "<null>";
+            width = 0;
+            x = 300;
+            y = 500;
+            zIndex = 0;
+        };
+        "btn_zj" =         {
+            alpha = 0;
+            buttonId = "btn_zj";
+            duration = "<null>";
+            eventGroup =             (
+            "even_zj",
+            "even_YC1002",
+            "happy_plus"
+            );
+            eventTimeout =             (
+            );
+            height = 0;
+            hideEffect = "<null>";
+            interactionType = press;
+            intoViewEffect = "<null>";
+            note = "<null>";
+            perloadingType = "<null>";
+            picHover = "<null>";
+            picNormal = "M00/00/CF/wKgB9Fy4UOOAF5-7AAAN4T8V38I938.png";
+            picPressed = "<null>";
+            "pic_4" = "<null>";
+            rotate = 0;
+            showEffect = "<null>";
+            successEffect = "<null>";
+            width = 0;
+            x = 1300;
+            y = 500;
+            zIndex = 0;
+        };
+    };
+    event =     {
+        "1002_play" =         {
+            argMap =             {
+                time = "<null>";
+                videoId = 1002;
+                volume = 1;
+            };
+            type = "VIDEO_PLAY";
+        };
+        "1003_play" =         {
+            argMap =             {
+                time = "<null>";
+                videoId = 1003;
+                volume = 1;
+            };
+            type = "VIDEO_PLAY";
+        };
+        "1004_play" =         {
+            argMap =             {
+                time = "<null>";
+                videoId = 1004;
+                volume = 1;
+            };
+            type = "VIDEO_PLAY";
+        };
+        "1005_play" =         {
+            argMap =             {
+                time = "<null>";
+                videoId = 1005;
+                volume = 1;
+            };
+            type = "VIDEO_PLAY";
+        };
+        "1005_stop" =         {
+            type = "VIDEO_PAUSE";
+        };
+        "1006_play" =         {
+            argMap =             {
+                time = "<null>";
+                videoId = 1006;
+                volume = 1;
+            };
+            type = "VIDEO_PLAY";
+        };
+        "1006_stop" =         {
+            type = "VIDEO_PAUSE";
+        };
+        "1007_stop" =         {
+            type = "VIDEO_PAUSE";
+        };
+        68786 =         {
+            argMap =             {
+                condition = "happy>=40";
+                failEventGroup =                 (
+                "1006_play"
+                );
+                successEventGroup =                 (
+                "1005_play"
+                );
+            };
+            type = CONDITION;
+        };
+        "even_1001" =         {
+            argMap =             {
+                type = "<null>";
+                uiIdGroup =                 (
+                "btn_zb",
+                "btn_aw"
+                );
+            };
+            type = "UI_SHOW";
+        };
+        "even_1002" =         {
+            argMap =             {
+                type = "<null>";
+                uiIdGroup =                 (
+                "btn_zj",
+                "btn_td"
+                );
+            };
+            type = "UI_SHOW";
+        };
+        "even_1003" =         {
+            argMap =             {
+                type = "<null>";
+                uiIdGroup =                 (
+                "btn_js",
+                "btn_ym"
+                );
+            };
+            type = "UI_SHOW";
+        };
+        "even_1004" =         {
+            argMap =             {
+                type = "<null>";
+                uiIdGroup =                 (
+                "btn_xt",
+                "btn_md"
+                );
+            };
+            type = "UI_SHOW";
+        };
+        "even_YC1001" =         {
+            argMap =             {
+                type = "<null>";
+                uiIdGroup =                 (
+                "btn_zb",
+                "btn_aw"
+                );
+            };
+            type = "UI_HIDE";
+        };
+        "even_YC1002" =         {
+            argMap =             {
+                type = "<null>";
+                uiIdGroup =                 (
+                "btn_zj",
+                "btn_td"
+                );
+            };
+            type = "UI_HIDE";
+        };
+        "even_YC1003" =         {
+            argMap =             {
+                type = "<null>";
+                uiIdGroup =                 (
+                "btn_js",
+                "btn_ym"
+                );
+            };
+            type = "UI_HIDE";
+        };
+        "even_YC1004" =         {
+            argMap =             {
+                type = "<null>";
+                uiIdGroup =                 (
+                "btn_xt",
+                "btn_md"
+                );
+            };
+            type = "UI_HIDE";
+        };
+        "even_aw" =         {
+            argMap =             {
+                time = "<null>";
+                videoId = 10011;
+                volume = 1;
+            };
+            type = "VIDEO_PLAY";
+        };
+        "even_jjdx" =         {
+            argMap =             {
+                time = "<null>";
+                videoId = 1007;
+                volume = 1;
+            };
+            type = "VIDEO_PLAY";
+        };
+        "even_js" =         {
+            argMap =             {
+                time = "<null>";
+                videoId = 10031;
+                volume = 1;
+            };
+            type = "VIDEO_PLAY";
+        };
+        "even_md" =         {
+            argMap =             {
+                time = "<null>";
+                videoId = 10042;
+                volume = 1;
+            };
+            type = "VIDEO_PLAY";
+        };
+        "even_td" =         {
+            argMap =             {
+                time = "<null>";
+                videoId = 10022;
+                volume = 1;
+            };
+            type = "VIDEO_PLAY";
+        };
+        "even_xt" =         {
+            argMap =             {
+                time = "<null>";
+                videoId = 10041;
+                volume = 1;
+            };
+            type = "VIDEO_PLAY";
+        };
+        "even_ym" =         {
+            argMap =             {
+                time = "<null>";
+                videoId = 10032;
+                volume = 1;
+            };
+            type = "VIDEO_PLAY";
+        };
+        "even_zb" =         {
+            argMap =             {
+                time = "<null>";
+                videoId = 10012;
+                volume = 1;
+            };
+            type = "VIDEO_PLAY";
+        };
+        "even_zj" =         {
+            argMap =             {
+                time = "<null>";
+                videoId = 10021;
+                volume = 1;
+            };
+            type = "VIDEO_PLAY";
+        };
+        "happy_plus" =         {
+            argMap =             {
+                compute = "+";
+                value = 10;
+                variableId = happy;
+            };
+            type = "VAR_UPDATE";
+        };
+    };
+    project =     {
+        audioBaseUrl = "<null>";
+        episodeDesc = "<null>";
+        episodeId = 262;
+        episodeName = "\U53e4\U8463";
+        imageBaseUrl = "http://192.168.1.244/group1/";
+        otherBaseUrl = "<null>";
+        projectDesc = "\U53e4\U8463";
+        projectId = 4975011;
+        projectName = "\U53e4\U8463";
+        stageFit = contain;
+        stageHeight = 1080;
+        stageWidth = 1920;
+        startVideoId = 1001;
+        startViewId = startpage;
+        videoBaseUrl = "http://192.168.1.244";
+        videoBitate = 24;
+        videoFit = contain;
+    };
+    resource =     {
+        image =         {
+        };
+        video =         {
+            1001 =             {
+                bitrate =                 {
+                    br = "/group1/M00/00/D2/wKgB9Fy9X_mATVCFAE_Nr_Ja0sI636.mp4";
+                    fast = "<null>";
+                    hd = "<null>";
+                    sd = "<null>";
+                    sp = "<null>";
+                };
+                from =                 {
+                    end = "00:00:36#93";
+                    start = "00:00:22#17";
+                    videoId = main;
+                };
+            };
+            10011 =             {
+                bitrate =                 {
+                    br = "/group1/M00/00/D2/wKgB9Fy9YHWAJ4VpACM0rs8qfSg152.mp4";
+                    fast = "<null>";
+                    hd = "<null>";
+                    sd = "<null>";
+                    sp = "<null>";
+                };
+                from =                 {
+                    end = "00:00:48#06";
+                    start = "00:00:41#64";
+                    videoId = branch;
+                };
+            };
+            10012 =             {
+                bitrate =                 {
+                    br = "/group1/M00/00/D2/wKgB9Fy9YEuARXyRABrYM8X7OXY444.mp4";
+                    fast = "<null>";
+                    hd = "<null>";
+                    sd = "<null>";
+                    sp = "<null>";
+                };
+                from =                 {
+                    end = "00:00:04#97";
+                    start = 0;
+                    videoId = branch;
+                };
+            };
+            1002 =             {
+                bitrate =                 {
+                    br = "/group1/M00/00/D2/wKgB9Fy9YCSAeDeVAIXV4WXMN4Y041.mp4";
+                    fast = "<null>";
+                    hd = "<null>";
+                    sd = "<null>";
+                    sp = "<null>";
+                };
+                from =                 {
+                    end = "00:01:18#50";
+                    start = "00:00:54#71";
+                    videoId = main;
+                };
+            };
+            10021 =             {
+                bitrate =                 {
+                    br = "/group1/M00/00/D2/wKgB9Fy9YH6ALnTeACcIadl-v5w819.mp4";
+                    fast = "<null>";
+                    hd = "<null>";
+                    sd = "<null>";
+                    sp = "<null>";
+                };
+                from =                 {
+                    end = "00:00:57#27";
+                    start = "00:00:50#06";
+                    videoId = branch;
+                };
+            };
+            10022 =             {
+                bitrate =                 {
+                    br = "/group1/M00/00/D2/wKgB9Fy9YFWAPmysAC-z1fzr_dY710.mp4";
+                    fast = "<null>";
+                    hd = "<null>";
+                    sd = "<null>";
+                    sp = "<null>";
+                };
+                from =                 {
+                    end = "00:00:15#50";
+                    start = "00:00:06#97";
+                    videoId = branch;
+                };
+            };
+            1003 =             {
+                bitrate =                 {
+                    br = "/group1/M00/00/D2/wKgB9Fy9YEWAZr0cAG3EbjO5Lx0188.mp4";
+                    fast = "<null>";
+                    hd = "<null>";
+                    sd = "<null>";
+                    sp = "<null>";
+                };
+                from =                 {
+                    end = "00:01:50#79";
+                    start = "00:01:31#23";
+                    videoId = main;
+                };
+            };
+            10031 =             {
+                bitrate =                 {
+                    br = "/group1/M00/00/D2/wKgB9Fy9YJeAI-KRAEJ_-JZ9o1A923.mp4";
+                    fast = "<null>";
+                    hd = "<null>";
+                    sd = "<null>";
+                    sp = "<null>";
+                };
+                from =                 {
+                    end = "00:01:23#04";
+                    start = "00:01:11#28";
+                    videoId = branch;
+                };
+            };
+            10032 =             {
+                bitrate =                 {
+                    br = "/group1/M00/00/D2/wKgB9Fy9YIqAK_jIADsL68bbfik877.mp4";
+                    fast = "<null>";
+                    hd = "<null>";
+                    sd = "<null>";
+                    sp = "<null>";
+                };
+                from =                 {
+                    end = "00:01:09#28";
+                    start = "00:00:59#27";
+                    videoId = branch;
+                };
+            };
+            1004 =             {
+                bitrate =                 {
+                    br = "/group1/M00/00/D2/wKgB9Fy9YAmADsE6AEotn14sdm0676.mp4";
+                    fast = "<null>";
+                    hd = "<null>";
+                    sd = "<null>";
+                    sp = "<null>";
+                };
+                from =                 {
+                    end = "00:00:52#71";
+                    start = "00:00:38#93";
+                    videoId = main;
+                };
+            };
+            10041 =             {
+                bitrate =                 {
+                    br = "/group1/M00/00/D2/wKgB9Fy9YGaAahy9AE7w9Zi_wI0344.mp4";
+                    fast = "<null>";
+                    hd = "<null>";
+                    sd = "<null>";
+                    sp = "<null>";
+                };
+                from =                 {
+                    end = "00:00:31#73";
+                    start = "00:00:17#50";
+                    videoId = branch;
+                };
+            };
+            10042 =             {
+                bitrate =                 {
+                    br = "/group1/M00/00/D2/wKgB9Fy9YG6AEtbJAB32Z7cWkrw552.mp4";
+                    fast = "<null>";
+                    hd = "<null>";
+                    sd = "<null>";
+                    sp = "<null>";
+                };
+                from =                 {
+                    end = "00:00:39#64";
+                    start = "00:00:33#73";
+                    videoId = branch;
+                };
+            };
+            1005 =             {
+                bitrate =                 {
+                    br = "/group1/M00/00/D1/wKgB9Fy9X-mAMsLcADY-8manAIw898.mp4";
+                    fast = "<null>";
+                    hd = "<null>";
+                    sd = "<null>";
+                    sp = "<null>";
+                };
+                from =                 {
+                    end = "00:00:20#17";
+                    start = "00:00:10#53";
+                    videoId = main;
+                };
+            };
+            1006 =             {
+                bitrate =                 {
+                    br = "/group1/M00/00/D1/wKgB9Fy9X96AFzc7AC3sxr_8f5o844.mp4";
+                    fast = "<null>";
+                    hd = "<null>";
+                    sd = "<null>";
+                    sp = "<null>";
+                };
+                from =                 {
+                    end = "00:00:08#53";
+                    start = 0;
+                    videoId = main;
+                };
+            };
+            1007 =             {
+                bitrate =                 {
+                    br = "/group1/M00/00/D2/wKgB9Fy9YC6AdUBLAC5ZfUlN9qE748.mp4";
+                    fast = "<null>";
+                    hd = "<null>";
+                    sd = "<null>";
+                    sp = "<null>";
+                };
+                from =                 {
+                    end = "00:01:29#23";
+                    start = "00:01:20#50";
+                    videoId = main;
+                };
+            };
+            branch =             {
+                bitrate =                 {
+                    br = "/group1/M00/00/D1/wKgB9Fy9K8-ALCioAX-H0BEU8Yk962.mp4";
+                    fast = "<null>";
+                    hd = "<null>";
+                    sd = "<null>";
+                    sp = "<null>";
+                };
+            };
+            main =             {
+                bitrate =                 {
+                    br = "/group1/M00/00/D1/wKgB9Fy9K82AYTiWAh7EhtDlWNc749.mp4";
+                    fast = "<null>";
+                    hd = "<null>";
+                    sd = "<null>";
+                    sp = "<null>";
+                };
+            };
+        };
+    };
+    variable =     {
+        happy =         {
+            type = number;
+            value = 10;
+        };
+    };
+    video =     {
+        1001 =         (
+        {
+            eventGroup =                 (
+            "even_1001"
+            );
+            triggerEnd = "<null>";
+            triggerStart = "00:00:07#01";
+        }
+        );
+        10011 =         (
+        {
+            eventGroup =                 (
+            "1002_play"
+            );
+            triggerEnd = "<null>";
+            triggerStart = end;
+        }
+        );
+        10012 =         (
+        {
+            eventGroup =                 (
+            "1002_play"
+            );
+            triggerEnd = "<null>";
+            triggerStart = end;
+        }
+        );
+        1002 =         (
+        {
+            eventGroup =                 (
+            "even_1002"
+            );
+            triggerEnd = "<null>";
+            triggerStart = "00:00:15#01";
+        }
+        );
+        10021 =         (
+        {
+            eventGroup =                 (
+            "1003_play"
+            );
+            triggerEnd = "<null>";
+            triggerStart = end;
+        }
+        );
+        10022 =         (
+        {
+            eventGroup =                 (
+            "1003_play"
+            );
+            triggerEnd = "<null>";
+            triggerStart = end;
+        }
+        );
+        1003 =         (
+        {
+            eventGroup =                 (
+            "even_1003"
+            );
+            triggerEnd = "<null>";
+            triggerStart = "00:00:15#01";
+        }
+        );
+        10031 =         (
+        {
+            eventGroup =                 (
+            "1004_play"
+            );
+            triggerEnd = "<null>";
+            triggerStart = end;
+        }
+        );
+        10032 =         (
+        {
+            eventGroup =                 (
+            "1004_play"
+            );
+            triggerEnd = "<null>";
+            triggerStart = end;
+        }
+        );
+        1004 =         (
+        {
+            eventGroup =                 (
+            "even_1004"
+            );
+            triggerEnd = "<null>";
+            triggerStart = "00:00:06#01";
+        }
+        );
+        10041 =         (
+        {
+            eventGroup =                 (
+            68786
+            );
+            triggerEnd = "<null>";
+            triggerStart = end;
+        }
+        );
+        10042 =         (
+        {
+            eventGroup =                 (
+            "even_jjdx"
+            );
+            triggerEnd = "<null>";
+            triggerStart = end;
+        }
+        );
+        1005 =         (
+        {
+            eventGroup =                 (
+            "1005_stop"
+            );
+            triggerEnd = "<null>";
+            triggerStart = end;
+        }
+        );
+        1006 =         (
+        {
+            eventGroup =                 (
+            "1006_stop"
+            );
+            triggerEnd = "<null>";
+            triggerStart = end;
+        }
+        );
+        1007 =         (
+        {
+            eventGroup =                 (
+            "1007_stop"
+            );
+            triggerEnd = "<null>";
+            triggerStart = end;
+        }
+        );
+    };
+}
